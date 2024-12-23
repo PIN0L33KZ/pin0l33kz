@@ -9,7 +9,7 @@ My name is PIN0L33KZ. While it’s simply a display name, it’s also the name I
 ### [⚠️Advanced Minecraft Server Console](https://github.com/PIN0L33KZ/Advanced-Minecraft-Server-Console)
 **A powerful application providing a Minecraft server console, along with tools for server management, monitoring, and server creation.**
 
-*This project is deprecated because the main API is also. Check [MCA-ServerConsole](https://github.com/PIN0L33KZ/MCA-ServerConsole "MCA-ServerConsole") as a replacement. (Under construction)*
+*This project is deprecated because the main API is also. Check [MCA-ServerConsole](https://github.com/PIN0L33KZ/MCA-ServerConsole "MCA-ServerConsole") as a replacement. (WIP)*
 ### [Cloudflare DNS Updater](https://github.com/PIN0L33KZ/CloudflareDnsUpdater)
 **A small tool that allows you to automatically overwrite a DNS record in Cloudflare with your public IP address. This allows you to use Cloudflare as a kind of DDNS service.**
 ### [Discord RPC Server](https://github.com/PIN0L33KZ/DiscordRPCServer)
