@@ -16,7 +16,7 @@
 **By utilising this program, you will be able to broadcast your Rich Presence status through your Discord client. This feature enables other users to view, in real time, the specific activity you are currently engaged in, such as playing a game or using an application. Rich Presence is a functionality provided by Discord that enhances user interaction, as it offers additional details about the activity, including progress, duration, and, in some cases, interactive options for joining or spectating. This creates a more immersive and connected experience within the Discord platform.**
 ## **Contact**
 - Webseite: [www.pinoleekz.de](https://www.pinoleekz.de/)
-- Software Documentation: [docs.pinoleekz.de](https://docs.pinoleekz.de/share/i8bnoszpx1/p/welcome-to-docs-azB0tU6Fxr)
+- Software Documentation: [docs.pinoleekz.de](https://docs.pinoleekz.de/share/y0zt9qffr3/p/welcome-to-docs-CMuxiNYAMM)
 - ~~Software-WIKI: [wiki.pinoleekz.de](https://wiki.pinoleekz.de/)~~ (Deprecated -> see Software Documentation instead)
 - Contact: [contact@pinoleekz.de](mailto:contact@pinoleekz.de)
 ## **Stats**
