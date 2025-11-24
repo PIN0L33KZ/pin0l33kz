@@ -17,11 +17,9 @@
 ## **Contact**
 - Webseite: [www.pinoleekz.de](https://www.pinoleekz.de/)
 - Software Documentation: [docs.pinoleekz.de](https://docs.pinoleekz.de/share/y0zt9qffr3/p/welcome-to-docs-CMuxiNYAMM)
-- ~~Software-WIKI: [wiki.pinoleekz.de](https://wiki.pinoleekz.de/)~~ (Deprecated -> see Software Documentation instead)
 - Contact: [contact@pinoleekz.de](mailto:contact@pinoleekz.de)
 ## **Stats**
-![Your-Github-Statistics](https://github-readme-stats.vercel.app/api?username=pin0l33kz&show_icons=true&theme=radical)
-![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pin0l33kz&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pin0l33kz&layout=compact&theme=radical)
 ## **Thanks**
 Thank you for visiting my profile! If you like my work, please leave a star ⭐ on my projects.
 ---
